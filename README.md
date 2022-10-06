@@ -1,2 +1,1 @@
-# Grocery-App
-This App will help you in listing groceries items.
+// This app is used to provide ease to those who go for grocery shoping this app will list all your groceries.
